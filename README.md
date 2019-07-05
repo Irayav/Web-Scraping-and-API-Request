@@ -1,5 +1,4 @@
-# Web-Scraping-and-API-Requests
-
+# Web-Scraping
 ## Objective: 
 Write a program to scrape news from the https://www.space.com/news web page.
 
