@@ -11,4 +11,6 @@ https://github.com/Irayav/Web-Scraping-and-API-Request/blob/master/Space_Scrapin
 ## Goal:
 Write a program to fetch the names and birthplaces of all British persons listed in the API
 
+https://github.com/Irayav/Web-Scraping-and-API-Request/blob/master/API_Harvard_Art_Museums.ipynb
+
 API documentation https://github.com/harvardartmuseums/api-docs
